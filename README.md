@@ -10,7 +10,7 @@ Utilizando o framework PHP Laravel, e um banco de dados relacional SQLite, MySQL
 - CRUD de produtos.
 - CRUD de pedidos de compra, com status (Em Aberto, Pago ou Cancelado).
 - Cada CRUD:
-  - conter lista dos itens cadastrado, com filtros e ordenação para tods os campos apresentados.
+  - conter lista dos itens cadastrados, com filtro e ordenação para tods os campos apresentados.
   - deve possuir formulários para criação e atualização de seus itens.
   - deve permitir a deleção de qualquer item de sua lista.
     
@@ -50,3 +50,4 @@ Utilizando o framework PHP Laravel, e um banco de dados relacional SQLite, MySQL
 - Legibilidade;
 - Criação do ambiente com Docker.
 - Inovação e melhorias.
+- Evolução do front end.
